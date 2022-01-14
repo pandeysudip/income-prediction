@@ -58,6 +58,7 @@ Created a function to calculate all model score, i.e.,
 * Confusion matrix
 * Classification matrix
 * ROC Curve
+
 ![Images13](figures/fun.png)
 
 ### Training and test score
