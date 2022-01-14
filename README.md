@@ -52,7 +52,15 @@ Created different classification models on this data. Different models are:
 Using SelectFromModel to fit the Adaboster Classifier model and get the important features only to fit all the model desceribed above.
 
 ## Model Performance
+Created a function to calculate all model score, i.e.,
+* Training score
+* Test score
+* Confusion matrix
+* Classification matrix
+* ROC Curve
+![Images13](figures/fun.png)
 
+### Training and test score
 ![Images3](figures/per1.png)
 
 ### Model Performance after selecting only important features
