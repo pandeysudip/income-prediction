@@ -67,9 +67,6 @@ Created a function to calculate all model score, i.e.,
 ### Model Performance after selecting only important features
 ![Images2](figures/per22.png)
 
-### Model Performance after Grid Search CV or Randomized Search CV
-
-![Images3](figures/per3.png)
 
 ## Comparing real and predicted value using different value for sample test set
 ![Images/landingResize.png](figures/com.png)
