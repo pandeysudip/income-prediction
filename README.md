@@ -62,10 +62,10 @@ Created a function to calculate all model score, i.e.,
 ![Images13](figures/fun.png)
 
 ### Training and test score
-![Images3](figures/per1.png)
+![Images3](figures/per11.png)
 
 ### Model Performance after selecting only important features
-![Images2](figures/per2.png)
+![Images2](figures/per22.png)
 
 ### Model Performance after Grid Search CV or Randomized Search CV
 
